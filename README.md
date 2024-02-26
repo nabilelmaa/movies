@@ -1,4 +1,4 @@
-The project is build using the following technology:
+The project is built using the following technology:
 
 Frontend:
     React + Vite 
